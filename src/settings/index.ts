@@ -1,0 +1,1 @@
+export const baseUrl = 'https://api.vandvietnam.com/api/pokemon-api'
